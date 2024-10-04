@@ -5,6 +5,6 @@
 - 🌍 I'm interested in exploring emerging technologies, artificial intelligence, and software development.
 
 ### Skills
-- Programming Languages: Python, Java, C++
+- Programming Languages: Python, Java, C++, Kotlin
 - Web Development: HTML, CSS, JavaScript
 - Tools: Git, Visual Studio Code, Docker
